@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+cvzone
+pywin32
+numpy
